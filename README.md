@@ -13,7 +13,8 @@
 - PostgreSQL
 
 ## Database File
-Download the dataset from 
+Download the database from Drive https://drive.google.com/file/d/1m4iK7C5yDYvvL9zcj3cV7knTBNKAlyfO/view?usp=sharing
+Upload the database in PostgreSQL server of your Choice.
 
 ## Business Problem
 Our company operates a diverse fleet of aircraft ranging from small business jets to medium-sized machines. We have been providing high-quality air transportation services to our clients for several years, and our primary focus is to ensure a safe, comfortable, and convenient journey for our passengers. However, we are currently facing challenges due to several factors such as stricter environmental regulations, higher flight taxes, increased interest rates, rising fuel prices, and a tight labor market resulting in increased labor costs. As a result, the company's profitability is under pressure, and they are seeking ways to address this issue. To tackle this challenge, they are looking to conduct an analysis of their database to find ways to increase their occupancy rate, Revenue and Ticket Sales, Flight Performance, Popular Routes and Airports and Customer Segmentation.
