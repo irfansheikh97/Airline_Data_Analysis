@@ -37,27 +37,46 @@ The end goal of this task would be:
 5. Can we categorize passengers based on ticket purchases (e.g., frequent flyers, economy vs. business)?
 
 ## Basic Analysis
-The initial data analysis provides insights into the number of large aircraft (over 100 seats), booking trends, revenue generation, and average fares. This information will aid in developing strategies to optimize occupancy rates and pricing for each aircraft type. Table 1 lists the large aircraft models and their corresponding seat capacities.
+The initial data analysis provides insights into the number of large aircraft (over 100 seats), booking trends, revenue generation, and average fares. This information will aid in developing strategies to optimize occupancy rates and pricing for each aircraft type. Figure 1 lists the large aircraft models and their corresponding seat capacities.
+![image](https://github.com/user-attachments/assets/e007ae30-f4fe-4714-bd31-b14120bf6c49)
 
 To analyze ticket booking trends and associated revenue, we employed a line chart. The chart revealed a steady increase in bookings from June 22nd to July 7th, followed by a relatively stable period until August. A significant peak in bookings was observed on a single day. Revenue closely correlated with ticket bookings, mirroring the same trend. Understanding the factors driving this peak could lead to strategies for boosting revenue and optimizing operations.
+![image](https://github.com/user-attachments/assets/e3c59a83-f030-4944-8a0a-fc93116cc083)
+![image](https://github.com/user-attachments/assets/63c0f710-4a3e-4442-806a-597c2bf17f96)
+
+
 
 A bar graph comparing average fare costs for different classes (business, economy, comfort) on various aircraft is shown in Figure 3. The CN1 and CR2 offer only economy class, while the 773 provides all three. Business class fares consistently exceed economy class fares across all aircraft.
+![image](https://github.com/user-attachments/assets/bbe5aaf5-9e8d-4668-b1cc-0635c4ac3189)
+
 
 ## Analyzing Occupancy Rate
 Airlines must thoroughly analyze their revenue streams in order to maximize profitability. The overall income per year and average revenue per ticket for each aircraft are important metrics to consider. Airlines may use this information to determine which aircraft types and itineraries generate the most income and alter their operations appropriately. This research can also assist in identifying potential for pricing optimization and allocating resources to more profitable routes. The below Figure 4 shows the total revenue, total tickets, and average revenue made per ticket for each aircraft. The aircraft with the highest total revenue is SU9, and from Figure 3, it can be seen that the price of the business class and economy class is the lowest on this aircraft. This could be the reason that most people bought tickets for this aircraft as it costs less compared to others. The aircraft with the least total revenue is CN1, and the possible reason behind this is that it only offers economy class with a very low price. It might be because of its poor conditions or fewer facilities.
+![image](https://github.com/user-attachments/assets/7dc0968d-cb97-41cf-9214-936ebf878a0a)
+
 
 The average occupancy per aircraft is another critical metric to consider. Airlines may measure how successfully they fill their seats and discover opportunities to boost occupancy rates by using this metric. Higher occupancy rates can help airlines increase revenue and profitability while lowering operational expenses associated with vacant seats. Pricing strategy, airline schedules, and customer satisfaction are all factors that might influence occupancy rates. The below Figure 5 shows the average booked seats from the total number of seats for each aircraft. The occupancy rate is calculated by dividing the booked seats by the total number of seats. Higher occupancy rate means the aircraft seats are more booked and only few seats are left unbooked.
+![image](https://github.com/user-attachments/assets/2e6c9d5b-7862-4376-8303-a837be979676)
+
 
 Airlines can assess how much their total yearly turnover could improve by providing all aircraft with a 10% higher occupancy rate to further examine the possible benefits of raising occupancy rates. This research can assist airlines in determining the financial impact of boosting occupancy rates by 10%, which results in a gradual increase. Therefore, airlines should focus more on pricing strategies.
+![image](https://github.com/user-attachments/assets/54dd055b-4c0e-4dfa-9a1a-55047cb8f52f)
+
+
 
 ## Revenue Sales Analysis of Flights and Tickets
 From this analysis, you can identify which fare classes (e.g., Business or Economy) generate the most revenue. If a fare class (e.g., Business) generates lower revenue, you could suggest targeted marketing, discounts, or upsell strategies to improve sales in that segment.
+![image](https://github.com/user-attachments/assets/192f9912-1754-4dd0-b0a3-2d8d5fec4e7f)
+![image](https://github.com/user-attachments/assets/1bdbb858-9507-4e76-8529-f267dbb42562)
+
+
 
 ## Flight Performance Analysis
 The visualization will show which routes are the most problematic in terms of delays or cancellations. You can recommend revisiting flight schedules, adding buffer time between flights, or improving coordination with airports to minimize these issues.
 
 ## Popular Routes and Airports
 This map provides a geographical overview of flight activity. From this, you can identify active regions and recommend route optimizations or airport upgrades to accommodate high traffic.
+![image](https://github.com/user-attachments/assets/24169da6-ea3b-449b-a223-4bfbb7d70471)
 
 ## Conclusions:
 By performing these analyses, we can uncover key insights such as:
